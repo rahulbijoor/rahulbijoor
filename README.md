@@ -1,5 +1,8 @@
 ### Hi there, I am Rahul 👋
 
+- 🔭 I’m currently pursuing Master's in Computer Science at California State University,Chico
+- 🌱 I’m currently learning Machine Learning, System Design, Data Science 
+- 👯 I’m looking to collaborate on Kaggle
 <!--
 **rahulbijoor/rahulbijoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
