@@ -2,12 +2,12 @@
 I am open to work on fascinating AI projects. I have been working in Data Science domain for a while now, but would love to collaborate on anything relating to ML.
 
 ### 🦸‍ About me 
-- Prevsiously worked as Data Analytics Associate at PricewaterhouseCoopers Acceleration Center Bengaluru <br>
+- Previously worked as Data Analytics Associate at PricewaterhouseCoopers Acceleration Center Bengaluru <br>
 - Completed Bachelor of Engineering in Information Science at PES Institute of Technology.
   
-- 🔭 I’m currently pursuing Master's in Computer Science at California State University,Chico
-- 🌱 I’m currently learning Machine Learning, System Design, Data Science 
-- 👯 I’m looking to collaborate on Kaggle
+- 🔭 I’m currently pursuing a Master's in Computer Science at California State University,Chico.
+- 🌱 I’m currently learning Machine Learning, System Design and Data Science.
+- 👯 I’m looking to collaborate on Kaggle.
 <!--
 **rahulbijoor/rahulbijoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
