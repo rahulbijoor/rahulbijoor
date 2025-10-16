@@ -2,7 +2,6 @@
 I am open to work on fascinating AI projects. I have been working in Data Science domain for a while now, but would love to collaborate on anything relating to ML.
 
 ### 🦸‍ About me 
-- Previously worked as Software Engineer Associate at PricewaterhouseCoopers Acceleration Center Bengaluru <br>
 - Completed Bachelor of Engineering in Information Science at PES Institute of Technology.
   
 - 🔭 I’m currently pursuing a Master's in Computer Science at California State University,Chico.
