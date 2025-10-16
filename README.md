@@ -5,7 +5,7 @@ I am open to work on fascinating AI projects. I have been working in Software En
 - Completed Bachelor of Engineering in Information Science at PES Institute of Technology.
   
 - 🔭 I’m currently pursuing a Master's in Computer Science at California State University,Chico.
-- 🌱 I’m currently learning Machine Learning, System Design and Data Science.
+- 🌱 I’m currently learning Software Engineering, Machine Learning, System Design and Data Science.
 - 👯 I’m looking to collaborate on Kaggle.
 <!--
 **rahulbijoor/rahulbijoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
