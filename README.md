@@ -1,5 +1,5 @@
 ### Hi there, I am Rahul 👋
-I am open to work on fascinating AI projects. I have been working in Data Science domain for a while now, but would love to collaborate on anything relating to ML.
+I am open to work on fascinating AI projects. I have been working in Software Engineer domain for a while now, but would love to collaborate on anything relating to ML.
 
 ### 🦸‍ About me 
 - Completed Bachelor of Engineering in Information Science at PES Institute of Technology.
